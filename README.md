@@ -24,6 +24,6 @@ TIC - FAETERJ.
 
 ## Social media:
 <div> 
-  <a href="https://www.instagram.com/jvbagio13/?utm_medium" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/joão-victor-lima-bagio-91b9a2239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
